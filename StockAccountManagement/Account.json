@@ -1,0 +1,17 @@
+[
+    {
+        "StockName": "Reliance",
+        "NumOfShare": "2233253",
+        "SharePrice": "2617"
+    },
+    {
+        "StockName": "TATA",
+        "NumOfShare": "678459",
+        "SharePrice": "2099"
+    },
+    {
+        "StockName": "HDFC",
+        "NumOfShare": "309854",
+        "SharePrice": "378"
+    }
+]
